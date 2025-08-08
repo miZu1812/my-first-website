@@ -202,7 +202,7 @@ span{
 }
 
 .typing-text span::before{
-    content: "front-end developerem";
+    content: "full-stack developerem";
     color: #FF4141;
     animation: words 20s infinite;
 }
@@ -224,23 +224,6 @@ span{
     }
 }
 
-@keyframes words{
-    /* 0%, 20%{
-        content: "front-end developerem"
-    } */
-    /* 21%, 40%{
-        content: "back-end developerem";
-    }
-    41%, 60%{
-        content: "web disagnerem";
-    }
-    61%, 80%{
-        content: "Youtuber";
-    }
-    81%, 100%{
-        content: "Script Writer";
-    } */
-}
 
 @media (max-width: 1000px){
     .home{
